@@ -1,0 +1,13 @@
+@import '~@angular/material/theming';
+@include mat-core();
+
+@import '~./assets/scss/colors.scss';
+@import '~./assets/scss/font.scss';
+@import '~./assets/scss/theme.scss';
+@import '~./assets/scss/utils.scss';
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}

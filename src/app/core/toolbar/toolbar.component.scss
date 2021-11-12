@@ -1,0 +1,8 @@
+.size-toolbar {
+    height: 80px;
+}
+
+::ng-deep.mat-menu-panel {
+    max-width: none !important;
+    width: 250px;
+}

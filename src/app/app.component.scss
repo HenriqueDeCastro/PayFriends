@@ -1,0 +1,16 @@
+.size {
+    min-height: 100vh;
+    margin: 0;
+}
+
+.toolbar-position {
+    position: relative;
+}
+
+.progress-position {
+    position: absolute;
+}
+
+::ng-deep .mat-progress-bar {
+    height: 6px !important;
+}
